@@ -16,7 +16,7 @@ Full Stack Software Engineer with a flair for creating beautiful applications an
 
 **Full Stack Software Engineer at Lambda School**
 
-January 2018 - Present
+*January 2018 - August 2018*
 
 - Approached coding challenges and projects with pair programming
 
@@ -26,7 +26,7 @@ January 2018 - Present
 
 **Freelance Web Developer**
 
-January 2015 - Present
+*January 2015 - Present*
 
 - Build and manage custom, responsive websites that meet client specifications with best practices.
 
@@ -36,15 +36,38 @@ January 2015 - Present
 
 **Data Analytics Intern at American Express**
 
-June 2017 - September 2017 (4 months)
+*June 2017 - September 2017 (4 months)*
 
 **Programming Intern at Year Up**
 
-January 2017 - September 2017 (9 months)
+*January 2017 - September 2017 (9 months)*
 
 Year Up is a leading one year professional career development program with 250 corporate partners around the country; the program includes college-level courses, professional training, and a six month internship.
 
+# Skills / Tech Stack
 
+#### Front End
+
+* Javascript(ES6): ReactJS/Redux, JQuery, Angular 
+* CSS3: Bootstrap, LESS Sass, SCSS HTML5: JSX, PUG  
+* Testing: MochaJS, ChaiJS, Jest 
+* Responsive WebDesign: Media Queries, Fluid grids
+
+#### Back End
+
+* NodeJS: Express 
+* Python: Django, Flask 
+* Relational Databases: PostgresSQL, MySQL NoSQL 
+* Databases: MongoDB 
+* RESTful APIs 
+* Authentication
+
+#### Other Technical Skills
+
+* Deployment: Heroku, Netlify, Firebase, mLab 
+* Animation: BabylonJS, Blender 
+* Version Control: Git/Github 
+* Linux/Ubuntu
 
 # Education
 

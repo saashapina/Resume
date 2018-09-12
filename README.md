@@ -16,7 +16,7 @@ Full Stack Software Engineer with a flair for creating beautiful applications an
 
 **Full Stack Software Engineer at Lambda School**
 
-*January 2018 - August 2018*
+*January 2018 - August 2018* (8 months)
 
 - Approached coding challenges and projects with pair programming
 
@@ -26,7 +26,7 @@ Full Stack Software Engineer with a flair for creating beautiful applications an
 
 **Freelance Web Developer**
 
-*January 2015 - Present*
+*January 2015 - Present* (3 years)
 
 - Build and manage custom, responsive websites that meet client specifications with best practices.
 

@@ -4,18 +4,13 @@ Front End Software Engineer
 
 saasha.pina@gmail.com
 
+#Links
 
+[Portfolio Site](https://saashapina.com) [Resume](https://docdro.id/ap5TLNQ) [LinkedIn](https://www.linkedin.com/in/saashapina) [Twitter](https://twitter.com/saashapina/)
 
 # Summary
 
 Full Stack Software Engineer with a flair for creating beautiful applications and solving problems. I believe craft, imagination, and embracing diverse creativity is what makes the world turn round. I&#39;ve developed several web applications and websites including contribution to a Hackathon winning webapp called TweetCollage that takes in tweets and returns collage art. I&#39;m passionate about open-source, collaboration, teamwork, moving forward and making things work.
-
-[Click Here for Portfolio Site](https://saashapina.com)
-
-[Click Here for Resume](https://docdro.id/ap5TLNQ)
-
-
-
 
 # Experience
 
@@ -72,8 +67,4 @@ Mathematics, 2014 - 2015
 1st Place Hackathon Winner @ LambdaSchool - TweetCollage
 
 1st Place Business Plan @ YearUp - The Happy Package
- 
 
-
-
-[Contact SaaSha on LinkedIn](https://www.linkedin.com/in/saashapina)
